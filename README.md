@@ -1,2 +1,6 @@
 # Udemy-Drum-Kit
-JavaScript practice DOM manipulation from Udemy Fullstack Development Course 2023. Template provided by AppBrewery.com. All credits go to Angela Yu.
+JavaScript practice DOM manipulation from Udemy Fullstack Development Course 2023.
+<br>
+Template provided by <a href="http://www.appbrewery.com/">AppBrewery.com</a>. 
+<br>
+All credits go to Angela Yu.
